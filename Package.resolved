@@ -66,10 +66,10 @@
     {
       "identity" : "yams",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/jpsim/Yams.git",
+      "location" : "https://github.com/bhagwat8024/Yams.git",
       "state" : {
-        "revision" : "0d9ee7ea8c4ebd4a489ad7a73d5c6cad55d6fed3",
-        "version" : "5.0.6"
+        "branch" : "main",
+        "revision" : "c779b93fe64b71f37cf5ab084dfd75b3cc238d02"
       }
     }
   ],
